@@ -12,7 +12,7 @@ We examine how **training data ordering** (easy-to-hard vs. random) and **biolog
 **Authors:** [Freya Zhang](mailto:freya.zhang@uwaterloo.ca), [Toshani Nath](mailto:t2nath@uwaterloo.ca)  
 **Institution:** University of Waterloo, Cheriton School of Computer Science
 
-**Paper:** [Read the full report (PDF)](./Report.pdf)  
+**Paper:** [Read the full report (PDF)](https://drive.google.com/file/d/11a0c3DmdiNyFx8tfXJHoyOZBqEqzap1F/view?usp=sharing)  
 **Conference Format:** NeurIPS 2020 style
 
 ---
